@@ -8,3 +8,4 @@ This is First Coding through CodeCanvas.
 2. GO to Remote Development Menu.
 3. Select CodeCanvas on the list.
 4. And you can start Dev Environment with JetBrains IDEs or VS Code
+5. You have to allow Outbound endpoint properly. 
