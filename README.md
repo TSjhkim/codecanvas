@@ -9,4 +9,4 @@ This is First Coding through CodeCanvas.
 3. Select CodeCanvas on the list.
 4. And you can start Dev Environment with JetBrains IDEs or VS Code
 5. You have to allow Outbound endpoint properly. 
-6. You can also Push the change from IDEs to Git Server.
+6. You can also Push the change from IDEs to Git Server!
