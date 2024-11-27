@@ -11,3 +11,4 @@ This is First Coding through CodeCanvas.
 5. You have to allow Outbound endpoint properly. 
 6. You can also Push the change from IDEs to Git Server.
 7. Then you can using DevEnvironment from CodeCanvas!
+8. Now you can start CodeCanvas on your Enterprise..!
