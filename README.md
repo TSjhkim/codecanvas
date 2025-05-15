@@ -13,3 +13,4 @@ This is First Coding through CodeCanvas.
 7. Then you can using DevEnvironment from CodeCanvas!
 8. Now you can start CodeCanvas on your Enterprise..!
 9. It is not required communication with Git server on local system.
+10. user need git repo communication
