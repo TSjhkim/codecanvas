@@ -16,5 +16,7 @@ This is First Coding through CodeCanvas.
 10. user need git repo communication12
 11. first push
 12. second push
+13. 로컬데이터 개발환경으로 복붙확인
 13. third push with 0820_1 branch
 14. 4th push with 0820_1 branch!
+15. 0821_1 brach first commit
